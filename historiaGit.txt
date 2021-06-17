@@ -1,3 +1,0 @@
-Git hoy
-
-10 años después, git es el sistema de control de versiones más utilizado del mundo. Aunque originalmente considerado como un software difícil de utilizar (por que como Torvalds reconoce, era difícil) hoy en día es mucho más amigable y es utilizado a diario por un sinfín de desarrolladores, proyectos y empresas en todo el mundo. Git está detrás de sitios tan populares e imprescindibles para la comunidad open-source como Github y Bitbucket, y se utiliza, por ejemplo, como herramienta de despliegue en Heroku. Además, proyectos como GitLab proporcionan una manera sencilla de tener un servidor propio para alojar proyectos con git.
